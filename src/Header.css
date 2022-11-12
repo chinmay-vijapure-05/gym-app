@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: rgb(81, 172, 206);
+}
+.header__logo {
+    height: 50px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+.header__left{
+    /* display: flex; */
+    flex:0.2;
+    align-items: center;
+}
+
+.header__tabs{
+    /* display: flex; */
+    flex:0.8;
+    align-items: center;
+}

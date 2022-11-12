@@ -1,0 +1,19 @@
+.cards{
+    float: 0.8;
+    background-color: #bef16a;
+    /* padding: 40px 20px; */
+    padding-bottom: 0;
+    margin: 10px;
+}
+
+/* .cards{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    background-color: rgb(250, 184, 108);
+} */
+
+.bg-image {
+    height:180px;/*max-content;*/
+    width: 250px/*max-content;*/
+    
+}
